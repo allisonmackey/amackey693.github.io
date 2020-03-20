@@ -66,29 +66,3 @@ p {
 body{
   background-image: url(https://images-na.ssl-images-amazon.com/images/I/81Ttgh59ZkL._AC_SL1467_.jpg);
 }
-
-@media screen and (min-width: 400px) {
-  .sidebar {
-    width:120px;
-    height:600px;
-    padding:12px;
-    border: 1px solid lightgray;
-    margin:auto;
-    float:left;
-    font-family:Arial, Helvetica, sans-serif;
-    background-color: white;
-    font-size: 10px;
-  }
-  .well {
-    margin-left: 100px;
-  }
-  }
-  .img-a {
-    width:100px;
-    height:100px;
-  }
-  .img-b {
-    width:50px;
-    height:50px;
-  }
-}
