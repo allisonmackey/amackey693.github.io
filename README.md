@@ -25,7 +25,7 @@ _If you run into any issues, please feel free to make changes and create your ow
 
 ## Technologies Used
 
-_HTML, CSS, & Bootstrap were used to create this web page_
+_HTML, CSS, & Bootstrap were used to create this web page. I used HTML to create links to photos in the header of the page, these links go to my instagram, a pdf of my resume and a link to send me an email!_
 
 ### License
 
