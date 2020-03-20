@@ -1,5 +1,5 @@
 .container-md {
-  padding: 10px;
+  padding: 30px;
   margin:auto;
 }
 
@@ -11,6 +11,7 @@
   margin:auto;
   float:left;
   font-family:Arial, Helvetica, sans-serif;
+  background-color: white;
   font-size: 10px;
 }
 
@@ -19,8 +20,9 @@
 }
 
 .img-a {
-  height: 500px;
-  width: 375px;
+  height: 400px;
+  width: 300px;
+  margin-bottom: 0px;
 }
 
 img {
@@ -37,3 +39,6 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/81Ttgh59ZkL._AC_SL1467_.jpg);
+}
