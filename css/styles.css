@@ -71,6 +71,7 @@ body{
 }
 
 @media (max-width: 991px) {
+  
   .sidebar {
     display:none;
   }
