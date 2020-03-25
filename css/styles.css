@@ -31,6 +31,7 @@
 }
 .well {
   text-align:center;
+  background-color: white;
 }
 
 .row-a {
@@ -52,6 +53,10 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.small-screen {
+  display:none;
+}
+
 img {
   height: 100px;
   length: 100px;
@@ -70,8 +75,8 @@ body{
   background-image: url(https://images-na.ssl-images-amazon.com/images/I/81Ttgh59ZkL._AC_SL1467_.jpg);
 }
 
-@media (max-width: 991px) {
-  
+@media (max-width: 991px) and (min-width:428px) {
+
   .sidebar {
     display:none;
   }
@@ -99,6 +104,10 @@ body{
   .img-b {
     height: 50px;
     width: 50px;
+  }
+
+  .small-screen {
+    display:none
   }
 
   .col-md-10 {
